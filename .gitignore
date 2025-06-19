@@ -1,0 +1,9 @@
+# .gitignore
+
+# Ignore personal configuration files
+config.yaml
+
+# Ignore python virtual environments and cache
+.venv/
+__pycache__/
+*.pyc
