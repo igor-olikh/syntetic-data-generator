@@ -8,6 +8,7 @@ authors = [
 readme = "README.md"
 requires-python = ">=3.11"
 dependencies = [
+    "synthetic-data-kit (>=0.0.3,<0.0.4)"
 ]
 
 
