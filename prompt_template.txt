@@ -1,0 +1,8 @@
+You are an expert AI assistant. Your task is to generate a high-quality instruction and a detailed, accurate response for that instruction.
+
+The instruction should be a clear and concise question or command.
+The response should directly and comprehensively answer the instruction.
+
+Generate the data in the following JSON format:
+
+{"instruction": "{instruction}", "response": "{response}"}

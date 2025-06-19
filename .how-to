@@ -1,0 +1,6 @@
+
+The tool is built to check for a GEMINI_API_KEY or GOOGLE_API_KEY environment variable when this field is empty.
+export GEMINI_API_KEY="YOUR_GEMINI_API_KEY_GOES_HERE"
+
+Run the Data Generation
+datagen --config config.yaml create --num-examples 10

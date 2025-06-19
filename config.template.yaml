@@ -1,0 +1,61 @@
+# =================================================================
+# Configuration for the Synthetic Data Generation Kit
+# =================================================================
+
+# -----------------------------------------------------------------
+# LLM Configuration: Choose ONE provider.
+# -----------------------------------------------------------------
+llm:
+  # --- Option 1: Google Gemini via Official Compatibility API (Recommended) ---
+  provider: "openai"
+  openai:
+    # Google's official OpenAI-compatible endpoint for Gemini
+    api_base: "https://generativelanguage.googleapis.com/v1beta/openai"
+    # Create an API key in Google AI Studio and paste it here
+    api_key: ""
+    # The Gemini model you wish to use
+    model: ""
+
+  # --- Option 2: Local LLM via Ollama (Commented out) ---
+  # provider: "openai"
+  # openai:
+  #   api_base: "http://localhost:11434/v1"
+  #   api_key: "ollama" # Can be any non-empty string
+  #   model: "llama3"
+
+# -----------------------------------------------------------------
+# Generation Parameters
+# -----------------------------------------------------------------
+generation:
+  # Number of CPU cores to use for parallel processing
+  # Set to -1 to use all available cores
+  num_workers: 4
+
+  # Number of examples to generate per batch. This is what the LLM sees at once.
+  batch_size: 4
+
+  # Parameters for controlling the LLM's output
+  temperature: 0.8
+  top_p: 0.95
+
+# -----------------------------------------------------------------
+# Data and File Paths
+# -----------------------------------------------------------------
+# Path to your prompt template file. You will need to create this.
+# See Step 2 below.
+prompt_template_file: "prompt_template.txt"
+
+# Optional: A file containing variables to be substituted into the prompt.
+# Useful for generating varied data from a list of topics, names, etc.
+# variable_file: "variables.csv"
+
+# -----------------------------------------------------------------
+# Storage Configuration
+# -----------------------------------------------------------------
+storage:
+  # The file where your generated synthetic data will be saved
+  output_file: "generated_data.jsonl"
+
+  # How many generated examples to keep in memory before flushing to the output file
+  # A larger number can be faster but uses more RAM.
+  cache_size: 100
