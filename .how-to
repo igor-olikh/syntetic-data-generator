@@ -1,6 +1,15 @@
+All relevant information is available at: https://github.com/meta-llama/synthetic-data-kit
 
-The tool is built to check for a GEMINI_API_KEY or GOOGLE_API_KEY environment variable when this field is empty.
-export GEMINI_API_KEY="YOUR_GEMINI_API_KEY_GOES_HERE"
+However, if you just want to run the tool and see the results...
 
-Run the Data Generation
-datagen --config config.yaml create --num-examples 10
+synthetic-data-kit system-check
+
+synthetic-data-kit ingest data/pdf/quantum-roadmap.pdf
+
+synthetic-data-kit create data/output/quantum-roadmap.txt -n 30
+
+synthetic-data-kit curate data/generated/quantum-roadmap_qa_pairs.json -t 8.5
+
+synthetic-data-kit save-as data/cleaned/quantum-roadmap_qa_pairs_cleaned.json -f ft
+
+synthetic-data-kit save-as data/cleaned/quantum-roadmap_qa_pairs_cleaned.json -f ft --storage hf
