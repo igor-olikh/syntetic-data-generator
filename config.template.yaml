@@ -2,26 +2,13 @@
 # Configuration for the Synthetic Data Generation Kit
 # =================================================================
 
-# -----------------------------------------------------------------
-# LLM Configuration: Choose ONE provider.
-# -----------------------------------------------------------------
 llm:
-  # --- Option 1: Google Gemini via Official Compatibility API (Recommended) ---
-  provider: "openai"
-  openai:
-    # Google's official OpenAI-compatible endpoint for Gemini
-    api_base: "https://generativelanguage.googleapis.com/v1beta/openai"
-    # Create an API key in Google AI Studio and paste it here
-    api_key: ""
-    # The Gemini model you wish to use
-    model: ""
+  provider: "api-endpoint"
 
-  # --- Option 2: Local LLM via Ollama (Commented out) ---
-  # provider: "openai"
-  # openai:
-  #   api_base: "http://localhost:11434/v1"
-  #   api_key: "ollama" # Can be any non-empty string
-  #   model: "llama3"
+api-endpoint:
+  api_base: "https://api.openai.com/v1"
+  api_key: "[YOUR-API-KEY]"
+  model: "gpt-4o"
 
 # -----------------------------------------------------------------
 # Generation Parameters
