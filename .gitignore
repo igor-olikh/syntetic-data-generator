@@ -1,9 +1,9 @@
 # .gitignore
 
 # Ignore personal configuration files
-custom_config.yaml
+config.yaml
 
 # Ignore python virtual environments and cache
 .venv/
 __pycache__/
-*.pyc
+*.pycconfig.yaml
