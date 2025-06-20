@@ -71,7 +71,7 @@ syntetic-data-generator/
 
    **Option B: Using API endpoint**
    ```bash
-   # Configure your API credentials in configs/custom_config.yaml
+   # Configure your API credentials in configs/config.yaml
    ```
 
 4. **Verify setup**
