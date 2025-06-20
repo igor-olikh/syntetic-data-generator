@@ -1,0 +1,125 @@
+{
+  "summary": "The IBM Technology Atlas outlines a roadmap for advancing quantum computing from 2024 to beyond 2033, emphasizing the development of fault-tolerant quantum computers and the integration of quantum computing with high-performance computing (HPC). Key milestones include demonstrating scientific quantum advantage, delivering the first fault-tolerant quantum computer, and scaling quantum computing capabilities to execute circuits with billions of gates. The strategy involves deploying new quantum processors like Nighthawk and Starling, enhancing algorithms, and developing tools for quantum and HPC workflows. These advancements aim to unlock new applications in fields such as security, chemistry, machine learning, and optimization, ultimately providing IBM clients and partners with powerful quantum computing resources.",
+  "qa_pairs": [
+    {
+      "question": "What is IBM's vision for the future of computing?",
+      "answer": "The future of computing is quantum."
+    },
+    {
+      "question": "What is one of the key goals for quantum computing by 2029 according to IBM's roadmap?",
+      "answer": "One key goal for 2029 is to deliver the first fault-tolerant quantum computer."
+    },
+    {
+      "question": "What significant milestone is IBM aiming to achieve by 2027 in their quantum computing roadmap?",
+      "answer": "By 2027, IBM aims to demonstrate the first example of scientific quantum advantage and a fault-tolerant module."
+    },
+    {
+      "question": "What is the role of the Nighthawk processor in IBM's quantum strategy?",
+      "answer": "The Nighthawk processor, with higher connectivity, will enable the execution of more complex circuits."
+    },
+    {
+      "question": "What technological development is IBM planning to enhance the performance of quantum processors?",
+      "answer": "IBM plans to improve quantum processors to allow running 7,500 gates on up to 360 qubits."
+    },
+    {
+      "question": "What is a key feature of IBM's strategy to scale quantum computing?",
+      "answer": "IBM plans to scale fault-tolerant quantum computers to run circuits of 1 billion gates on up to 2000 qubits."
+    },
+    {
+      "question": "How does IBM plan to demonstrate quantum advantage in the near future?",
+      "answer": "IBM plans to demonstrate quantum advantage using a quantum computer with HPC."
+    },
+    {
+      "question": "What is the function of Qiskit Functions in IBM's quantum computing strategy?",
+      "answer": "Qiskit Functions are developed and deployed to deliver domain-specific applications at utility scale."
+    },
+    {
+      "question": "What is IBM's approach to preparing for future quantum computing advancements?",
+      "answer": "IBM will demonstrate c-couplers and next generation packaging for fault-tolerant quantum computing with the Loon quantum processor."
+    },
+    {
+      "question": "What is the significance of the Cockatoo processor in IBM's quantum plans?",
+      "answer": "The Cockatoo processor will demonstrate entanglement of two modules using a universal adapter."
+    },
+    {
+      "question": "What new quantum processor is mentioned in the text?",
+      "answer": "Nighthawk, a new higher-connectivity quantum processor."
+    },
+    {
+      "question": "What scale of quantum circuits will the quantum computer be able to execute in the future?",
+      "answer": "Quantum circuits at a scale of 10K gates on 1000+ qubits."
+    },
+    {
+      "question": "What is the expected capability of the first fault-tolerant quantum computer?",
+      "answer": "The first fault-tolerant quantum computer will allow execution of 100M gates on 200 qubits."
+    },
+    {
+      "question": "What tools and methods will be provided for exploring quantum advantage?",
+      "answer": "Tools and methods for exploring quantum advantage on a pre-fault-tolerant quantum computer working alongside HPC."
+    },
+    {
+      "question": "What will users be able to do with the first fault-tolerant quantum computer?",
+      "answer": "Users will be able to run the next scale of applications unlocking a wider, more complex set of use cases."
+    },
+    {
+      "question": "What innovation is used to develop advanced classical transpilation methods?",
+      "answer": "AI is used to develop advanced classical transpilation methods."
+    },
+    {
+      "question": "What will Nighthawk, a modular processor with 120 square lattice qubits, allow?",
+      "answer": "It will allow more complex calculations using the same circuit depth."
+    },
+    {
+      "question": "What will the performance of the Nighthawk processor improve to allow?",
+      "answer": "It will improve to allow circuits with up to 10,000 gates on up to 1080 qubits."
+    },
+    {
+      "question": "What is the expected role of quantum computers running algorithms with billions of gates?",
+      "answer": "They are expected to enable general applications in security, chemistry, machine learning, and optimization."
+    },
+    {
+      "question": "What is the purpose of the new workflow accelerator mentioned in the text?",
+      "answer": "To streamline execution for a known advantage-scale workflow."
+    },
+    {
+      "question": "What is required to scale fault-tolerant quantum computing to 1 billion gates on up to 2000 qubits?",
+      "answer": "Scaling fault-tolerant quantum computing to 1 billion gates on up to 2000 qubits will require a new control elections and cryogenics infrastructure."
+    },
+    {
+      "question": "What will extensions of the computation and circuit libraries achieve?",
+      "answer": "Extensions of the computation and circuit libraries will scale and diversify quantum + HPC workflows across industries."
+    },
+    {
+      "question": "What is the future goal beyond the Blue Jay quantum computer?",
+      "answer": "For the future, we will scale beyond Blue Jay with the development of distributed quantum computing, bringing together the fields of quantum communication and quantum computation."
+    },
+    {
+      "question": "How will the Heron processor be delivered to IBM clients?",
+      "answer": "The Heron processor will be delivered through the IBM Quantum Platform."
+    },
+    {
+      "question": "What is the capability of the Heron processor?",
+      "answer": "The Heron processor is capable of running 5,000 gates on 133 qubits."
+    },
+    {
+      "question": "What distinguishes the Nighthawk processor in terms of qubit connectivity?",
+      "answer": "The Nighthawk processor has high qubit connectivity and is capable of running 5,000 gates on 120 qubits."
+    },
+    {
+      "question": "What is the capability of the Nighthawk processor with up to three 120-qubit modules?",
+      "answer": "The Nighthawk processor with up to three 120-qubit modules (360 qubits) is capable of running 7,500 gates."
+    },
+    {
+      "question": "How many gates can the Nighthawk processor with nine 120-qubit modules run?",
+      "answer": "The Nighthawk processor with up to nine 120-qubit modules (1080 qubits) is capable of running 10,000 gates."
+    },
+    {
+      "question": "What is the Starling system and what is its capability?",
+      "answer": "The Starling system is a modular, error-corrected quantum-centric supercomputer with 200 qubits capable of running 100 million gates."
+    },
+    {
+      "question": "What is the capability of the Blue Jay quantum computer?",
+      "answer": "The Blue Jay quantum computer is capable of running 1 billion gates on up to 2,000 qubits."
+    }
+  ]
+}

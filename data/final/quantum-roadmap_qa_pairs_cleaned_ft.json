@@ -1,0 +1,466 @@
+[
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is one of the key goals for quantum computing by 2029 according to IBM's roadmap?"
+      },
+      {
+        "role": "assistant",
+        "content": "One key goal for 2029 is to deliver the first fault-tolerant quantum computer."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What significant milestone is IBM aiming to achieve by 2027 in their quantum computing roadmap?"
+      },
+      {
+        "role": "assistant",
+        "content": "By 2027, IBM aims to demonstrate the first example of scientific quantum advantage and a fault-tolerant module."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is the role of the Nighthawk processor in IBM's quantum strategy?"
+      },
+      {
+        "role": "assistant",
+        "content": "The Nighthawk processor, with higher connectivity, will enable the execution of more complex circuits."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What technological development is IBM planning to enhance the performance of quantum processors?"
+      },
+      {
+        "role": "assistant",
+        "content": "IBM plans to improve quantum processors to allow running 7,500 gates on up to 360 qubits."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is a key feature of IBM's strategy to scale quantum computing?"
+      },
+      {
+        "role": "assistant",
+        "content": "IBM plans to scale fault-tolerant quantum computers to run circuits of 1 billion gates on up to 2000 qubits."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "How does IBM plan to demonstrate quantum advantage in the near future?"
+      },
+      {
+        "role": "assistant",
+        "content": "IBM plans to demonstrate quantum advantage using a quantum computer with HPC."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is the function of Qiskit Functions in IBM's quantum computing strategy?"
+      },
+      {
+        "role": "assistant",
+        "content": "Qiskit Functions are developed and deployed to deliver domain-specific applications at utility scale."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is IBM's approach to preparing for future quantum computing advancements?"
+      },
+      {
+        "role": "assistant",
+        "content": "IBM will demonstrate c-couplers and next generation packaging for fault-tolerant quantum computing with the Loon quantum processor."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is the significance of the Cockatoo processor in IBM's quantum plans?"
+      },
+      {
+        "role": "assistant",
+        "content": "The Cockatoo processor will demonstrate entanglement of two modules using a universal adapter."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What new quantum processor is mentioned in the text?"
+      },
+      {
+        "role": "assistant",
+        "content": "Nighthawk, a new higher-connectivity quantum processor."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What scale of quantum circuits will the quantum computer be able to execute in the future?"
+      },
+      {
+        "role": "assistant",
+        "content": "Quantum circuits at a scale of 10K gates on 1000+ qubits."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is the expected capability of the first fault-tolerant quantum computer?"
+      },
+      {
+        "role": "assistant",
+        "content": "The first fault-tolerant quantum computer will allow execution of 100M gates on 200 qubits."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What tools and methods will be provided for exploring quantum advantage?"
+      },
+      {
+        "role": "assistant",
+        "content": "Tools and methods for exploring quantum advantage on a pre-fault-tolerant quantum computer working alongside HPC."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What will users be able to do with the first fault-tolerant quantum computer?"
+      },
+      {
+        "role": "assistant",
+        "content": "Users will be able to run the next scale of applications unlocking a wider, more complex set of use cases."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What innovation is used to develop advanced classical transpilation methods?"
+      },
+      {
+        "role": "assistant",
+        "content": "AI is used to develop advanced classical transpilation methods."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What will Nighthawk, a modular processor with 120 square lattice qubits, allow?"
+      },
+      {
+        "role": "assistant",
+        "content": "It will allow more complex calculations using the same circuit depth."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What will the performance of the Nighthawk processor improve to allow?"
+      },
+      {
+        "role": "assistant",
+        "content": "It will improve to allow circuits with up to 10,000 gates on up to 1080 qubits."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is the expected role of quantum computers running algorithms with billions of gates?"
+      },
+      {
+        "role": "assistant",
+        "content": "They are expected to enable general applications in security, chemistry, machine learning, and optimization."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is the purpose of the new workflow accelerator mentioned in the text?"
+      },
+      {
+        "role": "assistant",
+        "content": "To streamline execution for a known advantage-scale workflow."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is required to scale fault-tolerant quantum computing to 1 billion gates on up to 2000 qubits?"
+      },
+      {
+        "role": "assistant",
+        "content": "Scaling fault-tolerant quantum computing to 1 billion gates on up to 2000 qubits will require a new control elections and cryogenics infrastructure."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What will extensions of the computation and circuit libraries achieve?"
+      },
+      {
+        "role": "assistant",
+        "content": "Extensions of the computation and circuit libraries will scale and diversify quantum + HPC workflows across industries."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is the future goal beyond the Blue Jay quantum computer?"
+      },
+      {
+        "role": "assistant",
+        "content": "For the future, we will scale beyond Blue Jay with the development of distributed quantum computing, bringing together the fields of quantum communication and quantum computation."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "How will the Heron processor be delivered to IBM clients?"
+      },
+      {
+        "role": "assistant",
+        "content": "The Heron processor will be delivered through the IBM Quantum Platform."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is the capability of the Heron processor?"
+      },
+      {
+        "role": "assistant",
+        "content": "The Heron processor is capable of running 5,000 gates on 133 qubits."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What distinguishes the Nighthawk processor in terms of qubit connectivity?"
+      },
+      {
+        "role": "assistant",
+        "content": "The Nighthawk processor has high qubit connectivity and is capable of running 5,000 gates on 120 qubits."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is the capability of the Nighthawk processor with up to three 120-qubit modules?"
+      },
+      {
+        "role": "assistant",
+        "content": "The Nighthawk processor with up to three 120-qubit modules (360 qubits) is capable of running 7,500 gates."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "How many gates can the Nighthawk processor with nine 120-qubit modules run?"
+      },
+      {
+        "role": "assistant",
+        "content": "The Nighthawk processor with up to nine 120-qubit modules (1080 qubits) is capable of running 10,000 gates."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is the Starling system and what is its capability?"
+      },
+      {
+        "role": "assistant",
+        "content": "The Starling system is a modular, error-corrected quantum-centric supercomputer with 200 qubits capable of running 100 million gates."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is the capability of the Blue Jay quantum computer?"
+      },
+      {
+        "role": "assistant",
+        "content": "The Blue Jay quantum computer is capable of running 1 billion gates on up to 2,000 qubits."
+      }
+    ]
+  }
+]

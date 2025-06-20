@@ -1,0 +1,265 @@
+IBM Technology Atlas
+
+Quantum roadmap
+
+The future of computing is quantum.
+
+Updated April 2025
+
+  Realized
+  In progress
+
+2024
+
+2025
+
+2026
+
+2027
+
+2029
+
+2033+
+
+Quantum journey
+
+  Expand the utility of 
+
+quantum computing.
+
+  Extend algorithms on 
+quantum computing + HPC 
+and demonstrate error 
+correction code. 
+
+Demonstrate first example 
+of scientific quantum 
+advantage and a fault-
+tolerant module.
+
+Diversify quantum 
+advantage and entangle 
+fault-tolerant modules.
+
+Deliver the first fault-tolerant 
+quantum computer.
+
+Unlock the full power of 
+quantum computing at scale.
+
+Strategy overview
+
+  Demonstrate accurate 
+
+execution of a quantum circuit 
+at a scale beyond exact classical 
+simulation. (5K gates on 156 
+qubits)
+
+We will release Quantum + HPC 
+tools that will leverage Night-
+hawk, a new higher-connectivity 
+quantum processor able to exe-
+cute more complex circuits. 
+
+We will demonstrate the 
+first examples of quantum 
+advantage using a quantum 
+computer with HPC.
+
+The scale, quality, speed of the 
+quantum computer will improve 
+to allow executing quantum 
+circuits at a scale of 10K gates 
+on a 1000+ qubits.
+
+The first fault-tolerant quantum 
+computer will be available to 
+clients and allow execution of 
+100M gates on 200 qubits.
+
+Scale fault-tolerant quantum 
+computers to run circuits of 
+1 billion gates on up to 2000 
+qubits, unlocking the full power 
+of quantum computing.
+
+Why this matters to our 
+clients and the world
+
+  We have created a platform 
+where algorithm and application 
+developers can develop candi-
+date circuits at utility scale.
+
+We will provide tools and 
+methods for exploring quantum 
+advantage on a pre-fault-tolerant 
+quantum computer working 
+alongside HPC.
+
+Users and partners will unlock 
+the first example of scientific 
+advantage on a pre-fault-tolerant 
+quantum computer working 
+alongside HPC.
+
+Users will be able to run an 
+expanded set of examples 
+demonstrating the scientific 
+value of pre-fault-tolerant 
+quantum computing. 
+
+Users will be able to run the 
+next scale of applications using 
+the first fault-tolerant quantum 
+computer unlocking  a wider, 
+more complex set of use cases.
+
+The technology or 
+innovations that will 
+make this possible
+
+  Developed and deployed 
+Qiskit Functions with our part-
+ners to deliver domain specific 
+applications at utility scale.
+
+  Used AI to develop advanced 
+classical transpilation methods.
+  Demonstrated with partners 
+
+a prototype  quantum-centric 
+supercomputer operating at 
+utility scale.
+
+Nighthawk, a modular processor 
+with 120 square lattice qubits 
+will allow more complex 
+calculations using the same 
+circuit depth.
+New and improved mitigation 
+tools will leverage classical HPC 
+to expand the set of circuits that 
+can be accurately run with 5000 
+two-qubit gates.
+To prepare for the future, we will 
+demonstrate c-couplers and next 
+generation packaging for fault-
+tolerant quantum computing with 
+the Loon quantum processor. 
+
+Our quantum processors will im-
+prove in quality to allow running 
+7,500 gates on up to 360 qubits.
+With our partners, we will define 
+a use case benchmarking toolkit 
+to evaluate candidates for 
+quantum advantage.
+We will deliver mapping and 
+profiling tools for quantum + 
+HPC workflows.
+To prepare for the future, Kooka-
+burra will demonstrate a single 
+module out of Starling consisting 
+of a logical processing unit and 
+quantum memory.
+
+The performance of our Night-
+hawk processor will improve to 
+allow circuits with up to 10,000 
+gates on up to 1080 qubits.
+The first set of computation 
+libraries will be developed to 
+simplify and optimize quantum + 
+HPC workflows.
+A new workflow accelerator will 
+streamline execution for a known 
+advantage-scale workflow.
+To prepare for the future, the 
+Cockatoo processor will demon-
+strate entanglement of two mod-
+ules using a universal adapter.
+
+The first fault-tolerant quantum 
+computer will power a quan-
+tum-enhanced HPC architecture 
+with a complete fault-tolerant 
+quantum ISA.
+With a fault-tolerant architecture, 
+the size of the circuits will 
+increase to 100M operations, 
+enabling the development of more 
+sophisticated circuit libraries.
+To prepare for the future, we will 
+continue to scale electronics, 
+infrastructure, and software to 
+reduce footprint, cost, and energy 
+usage in preparation for Blue Jay.
+
+Quantum computers running 
+algorithms using billions of 
+gates are expected to enable 
+general applications in security, 
+chemistry, machine learning, 
+and optimization.
+
+Scaling fault-tolerant quantum 
+computing to 1 billion gates on 
+up to 2000 qubits with a power 
+consumption of 2 megawatts will 
+require a new control elections 
+and cryogenics infrastructure.   
+Extensions of the computation 
+and circuit libraries will scale 
+and diversify quantum + HPC 
+workflows across industries.
+For the future, we will scale 
+beyond Blue Jay with the devel-
+opment of distributed quantum 
+computing, bringing together the 
+fields of quantum communication 
+and quantum computation.
+
+How these advancements 
+will be delivered to IBM 
+clients and partners
+
+  The Heron processor capable 
+
+of running 5,000 gates on 133 
+qubits will be delivered through 
+the IBM Quantum Platform.
+
+The Nighthawk processor with 
+high qubit connectivity, capable 
+of running 5,000 gates on 120 
+qubits, will be delivered through 
+the IBM Quantum Platform.
+
+The Nighthawk processor with up 
+to three 120-qubit modules (360 
+qubits) capable of running 7,500 
+gates will be delivered through 
+the IBM Quantum Platform.
+
+The Nighthawk processor with up 
+to nine 120-qubit modules (1080 
+qubits) capable of running 10,000 
+gates will be delivered through 
+the IBM Quantum Platform.
+
+The Starling system will be 
+available to clients. It will be a 
+modular, error-corrected quan-
+tum-centric supercomputer with 
+200 qubits capable of running 
+100 million gates.
+
+A fault-tolerant quantum 
+computer called Blue Jay, 
+capable of running 1 billion 
+gates on up to 2,000 qubits will 
+become available.
+
+
