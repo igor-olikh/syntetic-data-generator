@@ -85,22 +85,22 @@ syntetic-data-generator/
 
 1. **Ingest a document**
    ```bash
-   poetry run synthetic-data-kit ingest data/pdf/research_paper.pdf
+   poetry run synthetic-data-kit ingest data/pdf/quantum-roadmap.pdf
    ```
 
 2. **Generate QA pairs**
    ```bash
-   poetry run synthetic-data-kit create data/output/research_paper.txt --type qa
+   poetry run synthetic-data-kit create data/output/quantum-roadmap.txt --type qa
    ```
 
 3. **Curate for quality**
    ```bash
-   poetry run synthetic-data-kit curate data/generated/research_paper_qa_pairs.json
+   poetry run synthetic-data-kit curate data/generated/quantum-roadmap_qa_pairs.json
    ```
 
 4. **Export to fine-tuning format**
    ```bash
-   poetry run synthetic-data-kit save-as data/cleaned/research_paper_cleaned.json --format alpaca
+   poetry run synthetic-data-kit save-as data/cleaned/quantum-roadmap_cleaned.json --format alpaca
    ```
 
 ### Advanced Examples
@@ -125,6 +125,14 @@ for file in data/pdf/*.pdf; do
   poetry run synthetic-data-kit curate "data/generated/${filename}_qa_pairs.json"
   poetry run synthetic-data-kit save-as "data/cleaned/${filename}_cleaned.json" -f alpaca
 done
+```
+
+**Example with quantum-roadmap.pdf:**
+```bash
+poetry run synthetic-data-kit ingest data/pdf/quantum-roadmap.pdf
+poetry run synthetic-data-kit create data/output/quantum-roadmap.txt -n 20
+poetry run synthetic-data-kit curate data/generated/quantum-roadmap_qa_pairs.json
+poetry run synthetic-data-kit save-as data/cleaned/quantum-roadmap_cleaned.json -f alpaca
 ```
 
 ## ⚙️ Configuration
